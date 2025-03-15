@@ -64,6 +64,7 @@ header span {
   height: 883px;
   fill: #fff;
   padding: 100px 0px;
+
   /* Стили для второй секции */
 }
 
@@ -73,6 +74,7 @@ select {
   width: 150px;
   height: 36px;
   background: rgba(255, 255, 255, 0);
+  background-repeat: no-repeat;
   /* Стили для выпадающего списка */
 }
 
@@ -121,6 +123,7 @@ select {
 .text-field {
   width: 330px;
   height: 36px;
+  font-size: 16px;
   /* Стили для односточного поля ввода текста */
 }
 
