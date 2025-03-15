@@ -29,8 +29,8 @@ header span {
   width: 1440px;
   height: 1024px;
   background: #fafaff;
-  padding: 60px, 0px;
   min-height: 1022px;
+  padding: 60px 0px;
   /* Стили для первой секции */
 }
 
@@ -63,7 +63,7 @@ header span {
   width: 1440px;
   height: 883px;
   fill: #fff;
-  padding: 100px, 0px;
+  padding: 100px 0px;
   /* Стили для второй секции */
 }
 
